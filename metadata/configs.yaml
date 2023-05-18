@@ -1,0 +1,14 @@
+collection_name: "synthetic_ET"
+agg_collection_name: "synthetic_ET_agg"
+username: 'root'
+password: 'rootPass'
+mongo_db_name: "sustaindb"
+county_index: 1
+lat_index: 2
+lon_index: 3
+et1_index: 4
+time_index: 5
+quadtile_precision: 9
+state_len: 4
+county_len: 8
+tract_len: 14
